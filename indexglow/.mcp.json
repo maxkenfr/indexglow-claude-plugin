@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "indexglow": {
+      "type": "http",
+      "url": "https://indexglow.com/api/mcp"
+    }
+  }
+}

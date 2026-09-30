@@ -1,0 +1,22 @@
+{
+  "name": "indexglow",
+  "displayName": "IndexGlow",
+  "version": "0.1.0",
+  "description": "Understand your site's organic search traffic and visibility on Google and Bing: clicks, impressions, top pages and queries, trends, keyword opportunities, and indexing or crawl issues.",
+  "author": {
+    "name": "Max Bryselbout",
+    "url": "https://indexglow.com"
+  },
+  "homepage": "https://indexglow.com",
+  "license": "MIT",
+  "keywords": [
+    "seo",
+    "google-search-console",
+    "bing-webmaster-tools",
+    "organic-traffic",
+    "keyword-opportunities",
+    "search-rankings",
+    "indexing",
+    "keyword-cannibalization"
+  ]
+}

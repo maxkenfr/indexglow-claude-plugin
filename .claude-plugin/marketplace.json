@@ -1,0 +1,14 @@
+{
+  "name": "indexglow",
+  "description": "The IndexGlow plugin: Google Search Console and Bing Webmaster Tools data in Claude.",
+  "owner": {
+    "name": "Max Bryselbout"
+  },
+  "plugins": [
+    {
+      "name": "indexglow",
+      "source": "./indexglow",
+      "description": "Understand your site's organic search traffic and visibility on Google and Bing: clicks, impressions, top pages and queries, trends, keyword opportunities, and indexing or crawl issues."
+    }
+  ]
+}
